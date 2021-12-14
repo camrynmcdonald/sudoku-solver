@@ -76,7 +76,7 @@ public class Sudoku{
 		            System.out.println("Interrupted");
 		        }
 		        landscape.repaint();
-		        System.out.println("here");
+		        
 	    	}
 
 			//select the next cell to check 
